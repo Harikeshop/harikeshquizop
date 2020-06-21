@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header{
+	width: auto;
+	height: 100px;
+	background: #1C1AF0;
+}
+
+#botton{
+	width: auto;
+	height: 500px;
+	background: linear-gradient(to left, blue , white)
+}
